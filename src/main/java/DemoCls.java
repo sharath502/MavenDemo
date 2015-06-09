@@ -5,7 +5,7 @@ public class DemoCls {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Build Maven Project Successfully");
-
+		System.out.println("Scheduled Jenkins for auto build");
 	}
 
 }
